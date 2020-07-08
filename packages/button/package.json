@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@cortopy/editorial-origami-react-typography": "latest"
+    "@cortopy/editorial-origami-react-typography": "^0.0.5"
   },
   "repository": {
     "type": "git",
