@@ -5,6 +5,7 @@ function component() {
   console.log("forms component");
 }
 
+//
 component();
 
 module.exports = component;

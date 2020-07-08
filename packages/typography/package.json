@@ -1,7 +1,14 @@
 {
   "name": "@cortopy/editorial-o-react-typography",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "src/index.js",
   "license": "MIT",
-  "private": true
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:cortopy/monorepo-demo.git",
+    "directory": "packages/typography"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
