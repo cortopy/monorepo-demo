@@ -1,4 +1,4 @@
-const typography = require("@financial-times/editorial-origami-react-typography");
+const typography = require("@cortopy/editorial-origami-react-typography");
 
 function component() {
   typography();

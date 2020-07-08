@@ -1,7 +1,7 @@
-// const button = require("@financial-times/editorial-origami-react-button");
+const button = require("@cortopy/editorial-origami-react-button");
 
 function component() {
-  // button();
+  button();
   console.log("forms component");
 }
 
