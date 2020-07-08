@@ -6,7 +6,7 @@
   "private": false,
   "dependencies": {
     "@cortopy/editorial-origami-react-button": "^0.0.2",
-    "@cortopy/editorial-origami-react-typography": "^0.0.1"
+    "@cortopy/editorial-o-react-typography": "^0.0.1"
   },
   "repository": {
     "type": "git",
