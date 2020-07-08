@@ -1,12 +1,12 @@
 {
   "name": "@cortopy/editorial-origami-react-forms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "src/index.js",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@cortopy/editorial-o-react-typography": "^0.0.3",
-    "@cortopy/editorial-origami-react-button": "^0.0.3"
+    "@cortopy/editorial-o-react-typography": "^0.0.4",
+    "@cortopy/editorial-origami-react-button": "^0.0.4"
   },
   "repository": {
     "type": "git",
